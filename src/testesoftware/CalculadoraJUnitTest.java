@@ -9,6 +9,12 @@ import org.junit.jupiter.api.Test;
 
 public class CalculadoraJUnitTest {
 
+    private int somar;
+    private int subtrair;
+    private int dividir;
+    private int multiplicar;
+
+
      /******************************************************\
      *                                                      *
      *       Teste de Funcionalidade da Classe "Soma"       *
@@ -16,10 +22,6 @@ public class CalculadoraJUnitTest {
      \******************************************************/
 
      private final Soma calcSum = new Soma();
-     private int somar;
-     private int subtrair;
-     private int dividir;
-     private int multiplicar;
 
     //Cenário de Teste 1: Soma de 2 valores
     @Test
