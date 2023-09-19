@@ -2,10 +2,10 @@
 ## Descrição
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, onde são realizados testes manuais.
 
-## Funcionalidades
-A partir de um simples sistema que realiza cálculos básicos são realizados diversos testes a partir da classe Main com o objetivo de identificar e descrever possíveis falhas no sistema.
+## Cenário de Teste
+A partir de um simples sistema que realiza cálculos básicos são realizados diversos testes utilizando jUnit a partir da classe CalculadoraJUnitTest, identificando e descrevendo possíveis falhas.
 
-![Funcionalidades](funcoes.png)
+![Cenario](funcoes.png)
 
 ## Comentários
 Itens utilizados para descrever falhas.
@@ -14,6 +14,6 @@ Itens utilizados para descrever falhas.
 
 
 ## Publicação
-https://
+https://github.com/Rafael-MJ/AC1-TestesDeSoftware/edit/CALCULADORAJUNITTEST
 
-## Última atualização 16/09/23
+## Última atualização 19/09/23
