@@ -5,7 +5,7 @@ import funcionalidades.Multiplicacao;
 import funcionalidades.Soma;
 import funcionalidades.Subtracao;
 
-public class Main {
+public class Testes {
 
     public static void main(String[] args) {
         
