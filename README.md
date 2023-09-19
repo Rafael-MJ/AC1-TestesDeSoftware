@@ -8,7 +8,7 @@ A partir de um simples sistema que realiza cálculos básicos são realizados di
 ![Cenario](funcoes.png)
 
 ## Comentários
-Itens utilizados para descrever falhas e observações.
+Recursos utilizados para apontar falhas e observações.
 
 ![Comentários](comentarios.png)
 
