@@ -95,12 +95,14 @@ public class Testes {
         
         //Cenário de Teste 2: Divisao de 2 valores sendo um 0
         //System.out.println(calcDiv.divisao(7, 0));
+        //ERRO: ão é possível dividir por 0
         
         //Cenário de Teste 3: Divisao de 2 valores, primeiro 0
-        //System.out.println(calcDiv.divisao(0, 3));
+        System.out.println(calcDiv.divisao(0, 3));
         
         //Cenário de Teste 4: Divisao de 2 valores, ambos 0
         //System.out.println(calcDiv.divisao(0, 0));
+        //ERRO: ão é possível dividir por 0
         
         //Cenário de Teste 5: Divisao de 2 valores sendo um negativo
         System.out.println(calcDiv.divisao(7, -3));
@@ -113,24 +115,25 @@ public class Testes {
         
         //Cenário de Teste 8: Divisao de 2 valores, negativo e 0
         //System.out.println(calcDiv.divisao(-7, 0));
+        //ERRO: ão é possível dividir por 0
         
         //Cenário de Teste 9: Divisao de 2 valores, maior int e negativo
         System.out.println(calcDiv.divisao(2147483647, -3));
         
         //Cenário de Teste 10: Divisao de 2 valores, maior int e 0
         //System.out.println(calcDiv.divisao(2147483647, 0));
-        
+        //ERRO: ão é possível dividir por 0
+
+        //Cenário de Teste 11: Divisao resulta decimal
         System.out.println(calcDiv.divisao(3, 2));
-        
-        //OBS: Teste 2, 3, 4, 8, 10: Não é possível dividir por 0, independente
-        //da posição, quebrando o sistema.
+        //OBS: Resultado incorreto por retornar "int"
         
         
         //====================================================================\\
         
         /******************************************************\
         *                                                      *
-        *      Teste de Funcionalidade da Classe "Divisao"     *
+        *   Teste de Funcionalidade da Classe "Multiplicacao"  *
         *                                                      *
         \******************************************************/
         
