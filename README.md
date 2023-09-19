@@ -14,6 +14,6 @@ Recursos utilizados para apontar falhas e observações.
 
 
 ## Publicação
-https://github.com/Rafael-MJ/AC1-TestesDeSoftware/edit/CALCULADORAJUNITTEST
+https://github.com/Rafael-MJ/AC1-TestesDeSoftware/tree/CALCULADORAJUNITTEST
 
 ## Última atualização 19/09/23
