@@ -233,8 +233,8 @@ public class CalculadoraJUnitTest {
     public void dividirDecimal() {
         dividir = calcDiv.divisao(3,2);
         Assertions.assertEquals(1.5,dividir);
-    }//OBS: Números decimais não podem ser retornados por "int", não
-     //houve erro no teste pois "assertEquals" converte "int" para "double"
+    }/*OBS: Números decimais não podem ser retornados por "int", não
+     /houve erro no teste pois "assertEquals" converte "int" para "double"*/
 
 
     //====================================================================\\
