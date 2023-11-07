@@ -6,17 +6,20 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 ## Documentação
 Classes, métodos, variáveis e parâmetros possuem a documentação necessária.
 
-![Documentacao](doc.png)
+![Documentacao](ex_doc.png)
+
+## JavaDoc
+doc/funcionalidades/package-summary.html
 
 ## Cenário de Teste
 A partir de um simples sistema que realiza cálculos básicos são realizados diversos testes utilizando jUnit a partir da classe CalculadoraJUnitTest, identificando e descrevendo possíveis falhas.
 
-![Cenario](funcoes.png)
+![Cenario](ex_func.png)
 
 ## Comentários
 Recursos utilizados para apontar falhas e observações.
 
-![Comentários](comentarios.png)
+![Comentários](ex_coment.png)
 
 ## Publicação
 https://github.com/Rafael-MJ/TQS-Calculadora/tree/CalculadoraJUnitTest
