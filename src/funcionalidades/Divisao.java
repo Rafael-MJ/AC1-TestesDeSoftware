@@ -3,7 +3,7 @@ package funcionalidades;
 /**
  *
  * @author Rafael Jakubovsky
- * @version 1.5
+ * @version 1.5.1
  * @since Release 1.0 da aplicação
  *
  * Classe simples que contém o método de divisão.
