@@ -17,6 +17,6 @@ Recursos utilizados para apontar falhas e observações.
 ![Comentários](comentarios.png)
 
 ## Publicação
-https://github.com/Rafael-MJ/AC1-TestesDeSoftware/tree/CALCULADORAJUNITTEST
+https://github.com/Rafael-MJ/TQS-Calculadora/tree/CalculadoraJUnitTest
 
 ## Última atualização 07/11/23
