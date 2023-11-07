@@ -6,6 +6,8 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 ## Documentação
 Classes e métodos possuem a documentação necessária.
 
+![Documentacao](doc.png)
+
 ## Cenário de Teste
 A partir de um simples sistema que realiza cálculos básicos são realizados diversos testes utilizando jUnit a partir da classe CalculadoraJUnitTest, identificando e descrevendo possíveis falhas.
 
