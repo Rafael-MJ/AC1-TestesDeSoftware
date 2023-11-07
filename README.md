@@ -4,7 +4,7 @@
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, onde são realizados testes manuais e a devida documentação.
 
 ## Documentação
-Classes e métodos possuem a documentação necessária.
+Classes, métodos, variáveis e parâmetros possuem a documentação necessária.
 
 ![Documentacao](doc.png)
 
