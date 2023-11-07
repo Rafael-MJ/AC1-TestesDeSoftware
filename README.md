@@ -1,6 +1,10 @@
-# AC1 TESTES DE SOFTWARE testes automatizados jUnitTest
+# AC1 TESTES DE SOFTWARE testes automatizados jUnitTest + Documentação
+
 ## Descrição
-O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, onde são realizados testes manuais.
+O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, onde são realizados testes manuais e a devida documentação.
+
+## Documentação
+Classes e métodos possuem a documentação necessária.
 
 ## Cenário de Teste
 A partir de um simples sistema que realiza cálculos básicos são realizados diversos testes utilizando jUnit a partir da classe CalculadoraJUnitTest, identificando e descrevendo possíveis falhas.
@@ -12,8 +16,7 @@ Recursos utilizados para apontar falhas e observações.
 
 ![Comentários](comentarios.png)
 
-
 ## Publicação
 https://github.com/Rafael-MJ/AC1-TestesDeSoftware/tree/CALCULADORAJUNITTEST
 
-## Última atualização 19/09/23
+## Última atualização 07/11/23
