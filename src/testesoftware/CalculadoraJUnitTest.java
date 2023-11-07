@@ -7,6 +7,14 @@ import funcionalidades.Subtracao;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+/**
+ *
+ * @author Rafael Jakubovsky
+ * @version 1.5
+ * @since Release 1.0 da aplicação
+ *
+ * Classe simples que contém os métodos de teste jUnit.
+ */
 public class CalculadoraJUnitTest {
 
     private int somar;
